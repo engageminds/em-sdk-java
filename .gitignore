@@ -1,0 +1,9 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/.idea/
+/.externalToolBuilders/
+/*.iml
+log/
+deploy.sh

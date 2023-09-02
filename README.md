@@ -7,7 +7,7 @@
 <dependency>
     <groupId>ai.engageminds</groupId>
     <artifactId>em-sdk-java</artifactId>
-    <version>1.0</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
